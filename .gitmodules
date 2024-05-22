@@ -1,0 +1,6 @@
+[submodule "theme/avicenna"]
+	path = theme/avicenna
+	url = https://github.com/hadisinaee/avicenna
+[submodule "themes/avicenna"]
+	path = themes/avicenna
+	url = https://github.com/hadisinaee/avicenna
